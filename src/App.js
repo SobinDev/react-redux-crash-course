@@ -7,7 +7,7 @@ import { actionCreators } from "./state/index"
 
 
 function App() {
-
+//FROM test branch
   const state = useSelector((state) => state.bank);
 
   const dispatch = useDispatch();
